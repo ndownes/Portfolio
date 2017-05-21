@@ -1,5 +1,7 @@
 # Portfolio
+
 Udacity FSWD Project 2
+
 This is the repository for Project 2 of the Udacity Full Stack Web Developer Nanodegree:  Portfolio. 
 The Portfolio project is a web page modelled on a mockup comprised of the following components:  page title, header, cover image, and four work sample preview images able to be linked to the original work.  
 System requirements: all that is required to view this web page is an up-to-date browser (Edge, Mozilla Firefox, Opera, or Google Chrome).
